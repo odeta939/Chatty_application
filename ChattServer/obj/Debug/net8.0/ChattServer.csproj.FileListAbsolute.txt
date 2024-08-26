@@ -1,0 +1,14 @@
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\bin\Debug\net8.0\ChattServer.exe
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\bin\Debug\net8.0\ChattServer.deps.json
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\bin\Debug\net8.0\ChattServer.runtimeconfig.json
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\bin\Debug\net8.0\ChattServer.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\bin\Debug\net8.0\ChattServer.pdb
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.AssemblyInfoInputs.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.AssemblyInfo.cs
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.csproj.CoreCompileInputs.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\refint\ChattServer.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.pdb
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ChattServer.genruntimeconfig.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\ChattServer\obj\Debug\net8.0\ref\ChattServer.dll

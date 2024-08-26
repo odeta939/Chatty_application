@@ -1,0 +1,21 @@
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Debug\net8.0-windows\Chatty application.exe
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Debug\net8.0-windows\Chatty application.deps.json
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Debug\net8.0-windows\Chatty application.runtimeconfig.json
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Debug\net8.0-windows\Chatty application.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Debug\net8.0-windows\Chatty application.pdb
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application_MarkupCompile.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application_MarkupCompile.lref
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\MVVM\View\MainWindow.baml
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.g.resources
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.AssemblyInfoInputs.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.AssemblyInfo.cs
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.csproj.CoreCompileInputs.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\refint\Chatty application.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.pdb
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\Chatty application.genruntimeconfig.cache
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\obj\Debug\net8.0-windows\ref\Chatty application.dll

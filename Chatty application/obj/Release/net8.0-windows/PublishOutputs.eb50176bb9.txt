@@ -1,0 +1,5 @@
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Release\net8.0-windows\publish\Chatty application.exe
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Release\net8.0-windows\publish\Chatty application.dll
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Release\net8.0-windows\publish\Chatty application.deps.json
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Release\net8.0-windows\publish\Chatty application.runtimeconfig.json
+C:\Users\OdetaPenikaite\Documents\Projects\Chatty application\Chatty application\bin\Release\net8.0-windows\publish\Chatty application.pdb
